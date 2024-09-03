@@ -1,8 +1,7 @@
 # Tic-Tac-Toe in Fortran
 
-Author: Albert Winiarski  
-Semester: Spring 2024  
 Course: Applied Computer Science, Year 2
+Semester: Spring 2024  
 
 ## Project Description
 
